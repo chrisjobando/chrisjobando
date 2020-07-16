@@ -17,7 +17,7 @@ Hi, I'm Christopher Obando, a Frontend Developer 🚀 from Atlanta! Currently, I
 
   <img align="right" alt="Chris's Logo" src="https://cdn.dribbble.com/users/2972275/screenshots/5746777/logo2.png" />
 
-**Talking about Personal Stuffs:**
+**About Me:**
 
 - 💻 I’m currently working on launching a startup;
 - 🌱 I’m currently learning Vue; 
