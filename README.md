@@ -22,7 +22,7 @@ Hi, I'm Christopher Obando, a Frontend Developer 🚀 from Atlanta! Currently, I
 - 💻 I’m currently working on launching a startup;
 - 🌱 I’m currently learning Vue; 
 - 👯 I’m looking to collaborate on personal projects;
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about neumorphic design;
 - ⚡️ Fun-Fact: Anything is possible;
 - 📫 How to reach me: chrisjobando@gatech.edu;
 - 📝 [My Resume](https://chrisjobando.com/resume)
