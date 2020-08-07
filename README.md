@@ -1,14 +1,8 @@
-### Hey 👋🏽, I'm [Christopher Obando!](https://chrisjobando.com) 
+### Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Christopher Obando!](https://chrisjobando.com) 
 
-<a href="https://www.linkedin.com/in/chrisjobando/">
-  <img align="left" alt="Chris's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://leetcode.com/chrisjobando/">
-  <img align="left" alt="Chris's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.instagram.com/chris.obando">
-  <img align="left" alt="Chris's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/chrisjobando)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chrisjobando/)
+
 
 <br />
 <br />
@@ -23,7 +17,6 @@ Hi, I'm Christopher Obando, a Frontend Developer 🚀 from Atlanta! Currently, I
 - 🌱 I’m currently learning Vue; 
 - 👯 I’m looking to collaborate on personal projects;
 - 💬 Ask me about neumorphic design;
-- ⚡️ Fun-Fact: Anything is possible;
 - 📫 How to reach me: chrisjobando@gatech.edu;
 - 📝 [My Resume](https://chrisjobando.com/resume)
 
