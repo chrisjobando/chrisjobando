@@ -18,7 +18,7 @@ Hi, I'm Christopher Obando, a Frontend Developer 🚀 from Atlanta! Currently, I
 - 👯 I’m looking to collaborate on personal projects;
 - 💬 Ask me about universal design;
 - 📫 How to reach me: chrisjobando@gatech.edu;
-- 📝 [My Resume](https://chrisjobando.com/resume)
+- 📝 [My Resume](https://chrisjobando.com/Obando_Chris_Resume.pdf)
 
 **Languages and Tools:**  
 
