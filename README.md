@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Hi, I'm Christopher Obando, a Frontend Developer 🚀 from Atlanta! Currently, I'm a Senior at [Georgia Tech](https://gatech.edu) graduating this December. I'm passionate about social good, universal design, and Italian horror films from the 70s. Starting in January, I will be working as a Fullstack Web Developer for Microsoft in Seattle using ReactJs and TypeScript!
+Hi, I'm Christopher Obando, a Frontend Developer 🚀 from Atlanta! Currently, I'm current a frontend developer at Microsoft working on [Microsoft Lists] (https://www.microsoft.com/en-us/microsoft-365/microsoft-lists) . I'm passionate about social good, universal design, and Italian horror films from the 70s.
 
   <img align="right" alt="Chris's Logo" src="https://cdn.dribbble.com/users/2972275/screenshots/5746777/logo2.png" />
 
