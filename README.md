@@ -1,4 +1,4 @@
-### Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Christopher Obando!](https://chrisobando.dev) 
+### Hola, I'm [Christopher Obando!](https://chrisobando.dev) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/chrisjobando)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chrisjobando/)
@@ -16,7 +16,7 @@ Hi, I'm Christopher Obando, a Frontend Developer 🚀 from Atlanta! Currently, I
 - 🌱 I love to design for diverse communities; 
 - 👯 I’m looking to collaborate on personal projects;
 - 💬 Ask me about universal design;
-- 📫 How to reach me: chrisjobando@gatech.edu;
+- 📫 How to reach me: chrisjobando@gmail.com;
 
 **Languages and Tools:**  
 
